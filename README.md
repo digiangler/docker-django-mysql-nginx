@@ -2,15 +2,16 @@
 
 ### ローカル環境
 
-- docker 19.03
-- docker-compose 1.27.4
-- git 2.17
+- docker 20.10.8
+- docker-compose 1.29.2
+- git 2.33.0
+- GitHub 2.14.2
 
 ### 作成する環境
 
-- Python 3.8.5
+- Python 3.9.5
 - MySQL 8.0
-- nginx 1.18
+- nginx 1.21.3
 
 ### サービスの構築
 
